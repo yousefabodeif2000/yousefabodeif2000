@@ -25,25 +25,18 @@ I started out making **games in Unity**, and now I’m diving deeper into the wo
 ---
 
 ## 📌 Current Focus  
-- Building a **Job Application Manager** web app with React + Django + PostgreSQL.  
+- Building a **Job Application Manager** web app with React + Django + PostgreSQL.
+- Building a **Game Reviews** web app with ASP.NET MVC and Razor.
+- Building **Mazinator** steam game.
 - Expanding my knowledge in **OOP, data structures, and algorithms**.  
 - Sharpening my **game development pipeline** with Unity.  
 
 ---
 
-## 📂 Featured Work  
-- 🎮 [Mazinator](#) – An arcade Unity game.  
-- 🌐 [Fullstack Projects](#) – React + Django web apps.  
-- 🧩 [Puzzle Games](#) – Casual games built for fun.  
-
-*(More projects coming soon — watch this space!)*  
-
----
-
 ## 🌟 Let’s Connect  
 - 💼 Portfolio: [https://yousefabodeif.framer.website/](https://yousefabodeif.framer.website/)  
-- 📧 Email: *your.email@example.com*  
-- 🔗 LinkedIn: *[Your LinkedIn profile]*  
+- 📧 Email: *yousefabodeifahmed@example.com*  
+- 🔗 LinkedIn: *[](www.linkedin.com/in/yousef-ahmed-5876691a1)*  
 
 ---
 
