@@ -36,7 +36,7 @@ I started out making **games in Unity**, and now I’m diving deeper into the wo
 ## 🌟 Let’s Connect  
 - 💼 Portfolio: [https://yousefabodeif.framer.website/](https://yousefabodeif.framer.website/)  
 - 📧 Email: *yousefabodeifahmed@example.com*  
-- 🔗 LinkedIn: *[](www.linkedin.com/in/yousef-ahmed-5876691a1)*  
+- 🔗 LinkedIn: *www.linkedin.com/in/yousef-ahmed-5876691a1*  
 
 ---
 
