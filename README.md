@@ -9,15 +9,15 @@ I started out making **games in Unity**, and now I’m diving deeper into the wo
 
 ## 🚀 What I Do  
 - 🎮 **Game Development:** Creating fun & interactive experiences with Unity.  
-- 🖥️ **Fullstack Development:** Learning to build robust web apps (React + Django + PostgreSQL).  
+- 🖥️ **Fullstack Development:** Learning to build robust web apps.
 - 🛠️ **Problem Solving:** Exploring algorithms, design patterns, and clean code.  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** C#, JavaScript, Python, SQL  
-- **Frontend:** React, HTML, CSS, Tailwind  
-- **Backend:** Django, Node.js  
+- **Languages:** C#, JavaScript, Python, Typescript, SQL  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** ASP.NET (MVC, Web API), Lumen (PHP), Django, Node.js  
 - **Database:** PostgreSQL, MySQL  
 - **Game Engine:** Unity 3D  
 - **Other:** Git, REST APIs  
@@ -25,9 +25,7 @@ I started out making **games in Unity**, and now I’m diving deeper into the wo
 ---
 
 ## 📌 Current Focus  
-- Building a **Job Application Manager** web app with React + Django + PostgreSQL.
-- Building a **Game Reviews** web app with ASP.NET MVC and Razor.
-- Building **Mazinator** steam game.
+- Building **Mazinator** steam game. [Check it out!](https://store.steampowered.com/app/2752010/Mazinator/)
 - Expanding my knowledge in **OOP, data structures, and algorithms**.  
 - Sharpening my **game development pipeline** with Unity.  
 
