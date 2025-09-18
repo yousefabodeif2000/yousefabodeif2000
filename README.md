@@ -3,14 +3,13 @@
 🎮 **Game Developer** | 🌐 **Fullstack Developer** | 💡 **Always Building & Learning**  
 
 Welcome to my corner of GitHub!  
-I started out making **games in Unity**, and now I’m diving deeper into the world of **fullstack development** — building everything from **frontends in React** to **backends in Django**, with **PostgreSQL** powering the data.  
+I started out making games in Unity and now I’m diving deeper into fullstack development, building everything from frontends to backends.  
 
 ---
 
 ## 🚀 What I Do  
 - 🎮 **Game Development:** Creating fun & interactive experiences with Unity.  
 - 🖥️ **Fullstack Development:** Learning to build robust web apps.
-- 🛠️ **Problem Solving:** Exploring algorithms, design patterns, and clean code.  
 
 ---
 
@@ -26,8 +25,8 @@ I started out making **games in Unity**, and now I’m diving deeper into the wo
 
 ## 📌 Current Focus  
 - Building **Mazinator** steam game. [Check it out!](https://store.steampowered.com/app/2752010/Mazinator/)
-- Expanding my knowledge in **OOP, data structures, and algorithms**.  
-- Sharpening my **game development pipeline** with Unity.  
+- Expanding my knowledge in OOP, data structures, algorithms, and DevOps.  
+- Sharpening my game development pipeline with Unity.  
 
 ---
 
