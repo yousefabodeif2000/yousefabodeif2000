@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Youssef  
 
-🎮 **Game Developer** | 🌐 **Fullstack Developer in Training** | 💡 **Always Building & Learning**  
+🎮 **Game Developer** | 🌐 **Fullstack Developer** | 💡 **Always Building & Learning**  
 
 Welcome to my corner of GitHub!  
 I started out making **games in Unity**, and now I’m diving deeper into the world of **fullstack development** — building everything from **frontends in React** to **backends in Django**, with **PostgreSQL** powering the data.  
